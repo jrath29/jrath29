@@ -1,16 +1,21 @@
-### Hi there 👋
+<link rel="stylesheet" href="style.css">
+<div id="content">
+  <h1><Strong>João Victor</Strong></h1>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos</p>
 
-<!--
-**jrath29/jrath29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p><Strong>Principais Competências</Strong></p>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>MySQL</li>
+  </ul>
 
-Here are some ideas to get you started:
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-bezerra-5219a3201/" target="_blank">Linkedin</a>
+  [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://skills.thijs.gg)
+</div>
+
