@@ -2,7 +2,7 @@
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
   <p>📚 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos</p>
   <p>🖥️ Desenvolvimento Web Full-Stack</p>
-  <p>📍 Guarulhos, São Paulo</p> <br>
+  <p>📍 Guarulhos, São Paulo</p>
 
 
 ## 🚀 Tecnologias
@@ -14,7 +14,7 @@
     <li>MySQL</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev) <p><br>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev)
   
 ## 📄 Certificados
 <ul>
@@ -22,7 +22,7 @@
   <p>Wizard by Pearson</p><br>
   <li><strong>TOEIC - Test of English for International Communication</strong></li>
   <p>ETS</p>
-</ul> <br>
+</ul>
 
 ## 💻 Sites e Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-bezerra-5219a3201/)
