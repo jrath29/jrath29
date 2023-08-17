@@ -20,8 +20,6 @@
 <ul>
   <li><strong>Inglês Proficiency</strong></li>
   <p>Wizard by Pearson</p>
-  <li><strong>TOEIC - Test of English for International Communication</strong></li>
-  <p>ETS</p>
 </ul> <br>
 
 ## 💻 Sites e Contatos
