@@ -1,7 +1,7 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
   <p>📚 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos</p>
-  <p>🖥️ Desenvolvimento Web Full-Stack</p>
+  <p>🖥️ Desenvolvimento Full-Stack</p>
   <p>📍 Guarulhos, São Paulo</p> <br>
 
 
