@@ -10,10 +10,11 @@
     <li>CSS</li>
     <li>JavaScript</li>
     <li>React</li>
-    <li>MySQL</li>
+    <li>SQL</li>
+    <li>Typescript</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql)](https://skillicons.dev) <p><br>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,ts)](https://skillicons.dev) <p><br>
   
 ## 📄 Certificados
 <ul>
