@@ -1,6 +1,6 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
-  <p>📚 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos</p>
+  <p>📚 Estagiário de Desenvolvimento Web na Prefeitura de Guarulhos (Django, PHP, Postgres)</p>
   <p>📍 Guarulhos, São Paulo</p> <br>
 
 
@@ -11,7 +11,7 @@
     <li>JavaScript</li>
     <li>React</li>
     <li>SQL</li>
-    <li>Typescript</li>
+    <li>Django</li>
   </ul>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,ts)](https://skillicons.dev) <p><br>
