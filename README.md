@@ -1,6 +1,6 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
-  <p>📚 Estagiário de Desenvolvimento Web na Prefeitura de Guarulhos (Django, PHP e PostGres)</p>
+  <p>📚 Estagiário de Desenvolvimento Web na Prefeitura de Guarulhos (Django e PHP)</p>
   <p>📍 Guarulhos, São Paulo</p> <br>
 
 
