@@ -13,9 +13,10 @@
     <li>React</li>
     <li>SQL</li>
     <li>Django</li>
+    <li>PHP</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django)](https://skillicons.dev) <p><br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php)](https://skillicons.dev) <p><br>
   
 ## 📄 Certificados
 <ul>
