@@ -1,12 +1,12 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
   <p>📚 Estagiário de Desenvolvimento Web na Prefeitura de Guarulhos (Django e PHP)</p>
-  <p>📚 Professor de Inglês na Wizard by Pearson </p>
   <p>📍 Guarulhos, São Paulo</p> <br>
 
-
 ## 🚀 Tecnologias
-  <ul>
+<div>
+    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrath29&layout=compact&langs_count=7&theme=github_dark"/>
+    <ul align="left">
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
@@ -16,7 +16,9 @@
     <li>PHP</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php)](https://skillicons.dev) <p><br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php)](https://skillicons.dev) <p> </br>
+
+</div>
   
 ## 📄 Certificados
 <ul>
