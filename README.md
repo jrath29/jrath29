@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias
 <div>
-    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrath29&layout=compact&langs_count=7&theme=github_dark"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrath29&layout=compact&langs_count=7&theme=github_dark"/>
     <ul align="left">
     <li>HTML</li>
     <li>CSS</li>
