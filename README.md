@@ -1,7 +1,7 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
-  <p>📚 Desenvolvedor de Software</p>
-  <p>📍 Guarulhos, São Paulo</p> <br>
+  <p>💻 Desenvolvedor de Software</p>
+  <p>📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Guarulhos</p>
 
 ## 🚀 Tecnologias
 <div>
