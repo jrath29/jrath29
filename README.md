@@ -1,6 +1,6 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
-  <p>📚 Estagiário de Desenvolvimento Web na Prefeitura de Guarulhos (Django e PHP)</p>
+  <p>📚 Desenvolvedor de Software</p>
   <p>📍 Guarulhos, São Paulo</p> <br>
 
 ## 🚀 Tecnologias
@@ -10,13 +10,14 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>React</li>
-    <li>SQL</li>
+    <li>ReactJS</li>
+    <li>MySQL</li>
     <li>Django</li>
     <li>PHP</li>
+    <li>PostgreSQL</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php)](https://skillicons.dev) <p> </br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php,postgresql)](https://skillicons.dev) <p> </br>
 
 </div>
   
