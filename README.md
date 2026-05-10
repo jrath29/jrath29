@@ -1,23 +1,27 @@
 <div id="content">
   <h1 align="center"><strong> 👨🏽‍🚀 João Victor</strong></h1>
   <p>💻 Desenvolvedor de Software</p>
-  <p>📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Guarulhos</p>
+  <p>📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC</p>
+  <p>🧑‍🏫 Professor de Inglês</p>
 
 ## 🚀 Tecnologias
 <div>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrath29&layout=compact&langs_count=7&theme=github_dark"/>
     <ul align="left">
     <li>HTML</li>
-    <li>CSS</li>
+    <li>CSS/Sass</li>
     <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>ReactJS</li>
-    <li>MySQL</li>
+    <li>Next.js</li>
     <li>Django</li>
+    <li>Python</li>
     <li>PHP</li>
+    <li>MySQL</li>
     <li>PostgreSQL</li>
   </ul>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,django,php,postgresql)](https://skillicons.dev) <p> </br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,django,py,php,mysql,postgresql)](https://skillicons.dev) <p> </br>
 
 </div>
   
@@ -25,6 +29,8 @@
 <ul>
   <li><strong>Inglês Proficiency</strong></li>
   <p>Wizard by Pearson</p>
+  <li><strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong></li>
+  <p>Amazon Web Services (AWS)</p>
 </ul> <br>
 
 ## 💻 Sites e Contatos
